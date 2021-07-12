@@ -5,3 +5,5 @@ The system accepts CCTV record videos as input.It first detects moving frame usi
 The system also has a statistics part which tells the data for the number of wearing helmet and non-wearing helemt.The data is saved in excel sheet.
 Maily used theories are Gaussian Mixture Model for foreground detection method, some morphological operations and YOLO v2 object detection.
 The whole project is developed using Matlab Programming Language.
+
+Link for the whole project https://drive.google.com/file/d/1pz5Gn91lMPPNOcTJ4dNG8G29kj_xO-fP/view?usp=sharing
